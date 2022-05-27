@@ -1,6 +1,6 @@
 /*
 Solution to 
-https://leetcode.com/problems/valid-anagram/submissions/
+https://leetcode.com/problems/valid-anagram/
 Run time: O(n)
 Space: O(n)
 */

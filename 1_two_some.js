@@ -1,6 +1,6 @@
 /*
 Solution to problem:
-https://leetcode.com/problems/two-sum/submissions/
+https://leetcode.com/problems/two-sum/
 Time: O(n)
 Space: O(n)
 */

@@ -57,7 +57,6 @@ var topKFrequent = function(nums, k) {
       }
     }
   }
-  return answer
 }
 
 console.log(topKFrequent([1], 1))

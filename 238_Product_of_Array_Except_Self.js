@@ -34,7 +34,7 @@ var productExceptSelf = function(nums) {
     if(i == 0){
       answer[i] = postfix[1]
     }else if(i == len - 1){
-      answer[i] = prefix[ i - 1 ]
+      answer[i] = prefix[ i - 1 ] 
     }else{
       answer[i] = prefix[i - 1] * postfix[i + 1]
     }
